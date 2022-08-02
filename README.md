@@ -3,11 +3,11 @@ local [(li)bre pyth(on)] game
 
 the purpose of this repository was to fuel whatever my friend wanted
 
-# Content
-## Games
+## Content
+### Games
 Blackjack(blackjack.py)
 
-## Programs
+### Programs
 Brute Force Password Cracker(bfpc.py)
 
 # Credits
