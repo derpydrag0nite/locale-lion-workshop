@@ -1,5 +1,5 @@
-# locale-lion-game
-local [(li)bre pyth(on)] game
+# The Workshop, locale-lion-workshop
+local [(li)bre pyth(on)] workshop
 
 the purpose of this repository was to fuel whatever my friend wanted
 
