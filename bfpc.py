@@ -52,7 +52,7 @@ def restart():
                                                                                                    
 '''
     print(logo)
-    b("Welcome to the Brute Force Password Cracker")
+    b("Welcome to the Brute Force Password Cracker, by derpydrag0nite")
     sleep()
     space()
     b("(1) - Start Cracking")
@@ -319,7 +319,7 @@ def restart():
             exit()
     if cho == "4":
         clear()
-        r("All code is by the one and only moi.")
+        r("All code is by the one and only derpydrag0nite.")
         space()
         print ("Back? [Y/N]")
         back = input()
