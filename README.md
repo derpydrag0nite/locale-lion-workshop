@@ -12,7 +12,9 @@ Brute Force Password Cracker(bfpc.py)
 
 # Credits
 this is a test project made by derpydrag0nite and vincenthavebal
-
+<a href="https://github.com/derpydrag0nite/locale-lion-game/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=derpydrag0nite/locale-lion-game" />
+</a>
 
 
 
