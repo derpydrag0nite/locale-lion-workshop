@@ -52,7 +52,7 @@ def restart():
                                                                                                    
 '''
     print(logo)
-    b("Welcome to the Brute Force Password Cracker, by derpydrag0nite")
+    b("Welcome to the Brute Force Password Cracker, by aspen!")
     sleep()
     space()
     b("(1) - Start Cracking")
